@@ -38,10 +38,10 @@ Includes free "public domain"-like licensed contents.
 ## Contacts for the english documentation
 - **Public forum** : use the [Discussions](https://github.com/MechatronicBeing/docs-en/discussions) tab
   - for general conversations (but not issues) with the community
-  - you can use the others Discussions ("[the documentation hub](https://github.com/MechatronicBeing/docs/discussions)" or "[the homepage project](https://github.com/MechatronicBeing/MechatronicBeing.github.io/discussions)")
+  - you can use the [the documentation hub](https://github.com/MechatronicBeing/docs/discussions/) or [the homepage project](https://github.com/MechatronicBeing/MechatronicBeing.github.io/discussions/) to discuss too.
   - a github account is needed
 - **Public issues** : use the "[Issues](https://github.com/MechatronicBeing/docs-en/issues)"
-  - for bugs or errors, new features or requests, helps wanted, questions (not general conversations)
+  - for bugs or errors, new features or requests, helps wanted, questions (not for general conversations)
   - a github account is needed
 - **Private message** : MechatronicBeing![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/other/atsign.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/g.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/m.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/a.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/i.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/l.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/other/centerdot.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/c.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/o.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/m.png)
 - **Social media** : no. 
