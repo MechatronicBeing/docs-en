@@ -1,6 +1,7 @@
 English documentation of MechatronicBeing.  
 Study, understand, design, build, develop, work, repair and live with Mechatronic Beings.  
-Includes free content, under "public domain"or similar.  
+Includes free content, under "public domain" or similar.  
+[Return to the homepage project](https://mechatronicbeing.github.io/)  
 
 ## What is a "Mechatronic Being" ?
 - **Mechatronics** = Mechanics + Electronics + Computer Software + Control systems
