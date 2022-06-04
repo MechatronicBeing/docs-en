@@ -1,4 +1,4 @@
-English documentation of MechatronicBeing
+English documentation of MechatronicBeing.  
 Study, understand, design, build, develop, work, repair and live with Mechatronic Beings.  
 Includes free content, under "public domain"or similar.  
 
