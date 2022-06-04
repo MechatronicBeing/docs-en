@@ -11,9 +11,9 @@ Includes free "public domain"-like licensed contents.
   - counterexamples : inert or "brainless" objects
     - materials (wooden, metal, water, gas...)
     - parts of an organism (limbs, torso...)
-- Mechatronic Being : machine with a s
-  - an artificial copy of beings
-  - counterparts : Biological Beings (humans, animals...)
+- Mechatronic Being : a human machine, moving or not, with an intelligence
+  - reproduce the body and mind of living beings
+  - counterparts : biological living beings (humans, animals...)
 
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
@@ -35,12 +35,13 @@ Includes free "public domain"-like licensed contents.
   - in many cases, any trademarks and patents belong to their respective owners (and must be treated accordingly, in any derivative work)
   - verify LICENSE files/mentions, accordingly to each work, in case of -rare- exceptions
 
-## Contacts
-- **Public forum** : use the "[Discussions](https://github.com/MechatronicBeing/MechatronicBeing.github.io/discussions)"
-  - for conversations (but not issues) with the community 
+## Contacts for the english documentation
+- **Public forum** : use the [Discussions](https://github.com/MechatronicBeing/docs-en/discussions) tab
+  - for general conversations (but not issues) with the community
+  - you can use the others Discussions ("[the documentation hub](https://github.com/MechatronicBeing/docs/discussions)" or "[the homepage project](https://github.com/MechatronicBeing/MechatronicBeing.github.io/discussions)")
   - a github account is needed
-- **Public issues** : use the "[Issues](https://github.com/MechatronicBeing/MechatronicBeing.github.io/issues)"
-  - for bugs or errors, new features or requests, helps wanted, questions (but not public conversations)
+- **Public issues** : use the "[Issues](https://github.com/MechatronicBeing/docs-en/issues)"
+  - for bugs or errors, new features or requests, helps wanted, questions (not general conversations)
   - a github account is needed
 - **Private message** : MechatronicBeing![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/other/atsign.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/g.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/m.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/a.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/i.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/l.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/other/centerdot.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/c.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/o.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/m.png)
 - **Social media** : no. 
